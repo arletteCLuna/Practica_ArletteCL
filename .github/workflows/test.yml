@@ -37,6 +37,6 @@ jobs:
         run: |
           cd .github/workflows
           ls -al
-          chmod +X script.sh
+          chmod +x script.sh
           ls -al
 
